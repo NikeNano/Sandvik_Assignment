@@ -1,6 +1,6 @@
 # Sandvik_DataScience_TakeHome
 
-The Code @ Sandvik take homea assignment
+The Code @ Sandvik take home assignment
 
 My solution to the following problem:https://github.com/sandvikcode/data-science-take-home
 
