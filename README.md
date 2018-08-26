@@ -8,12 +8,12 @@ My solution to the following problem:https://github.com/sandvikcode/data-science
 
 ![](figures/workflow.png??raw=true)
 
-1 ** Webscraping ** Webscraping and downloading the files(zip files), also create a csv file for the preprocessing script - web_download_prepare.ipynb
-2 ** Feature extraction ** . R script for feature extraction from the .wav files. - sound_feature.R
-3 ** Initial visualisation and preprocessing ** . Some further feature extraction and transformation, also some visualisation of the data. - visualisng_preprocessed_data.ipynb
-4 ** Modelling ** . Modelling and futher understanding of the data. - Predictive modelling.ipynb
-5 ** Dynamic visualisation ** . Bokeh application for interactive plots and visualisation of the data - bokeh_app 
-6 ** Report ** .PDF report done in latex (online editor) - data_science_home.pdf
+- ** Webscraping ** Webscraping and downloading the files(zip files), also create a csv file for the preprocessing script - web_download_prepare.ipynb
+- ** Feature extraction ** . R script for feature extraction from the .wav files. - sound_feature.R
+- ** Initial visualisation and preprocessing ** . Some further feature extraction and transformation, also some visualisation of the data. - visualisng_preprocessed_data.ipynb
+- ** Modelling ** . Modelling and futher understanding of the data. - Predictive modelling.ipynb
+- ** Dynamic visualisation ** . Bokeh application for interactive plots and visualisation of the data - bokeh_app 
+- ** Report ** .PDF report done in latex (online editor) - data_science_home.pdf
 
 ## Folders:
 - Backup, this is a backup of some of the notebooks
