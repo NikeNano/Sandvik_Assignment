@@ -7,6 +7,8 @@ My solution to the following problem:https://github.com/sandvikcode/data-science
 ## Structured of the workflow/jupyter notebooks
 
 ![alt tag]((https://github.com/NikeNano/Sandvik_Assignment/tree/master/figures/workflow.png "Figure illustrating the workflow")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 1. Webscraping and downloading the files(zip files), also create a csv file for the preprocessing scrip - web_download_prepare.ipynb
 2. R script for feature extraction from the .wav files. - sound_feature.R
