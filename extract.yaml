@@ -1,0 +1,8 @@
+Gender:
+  key: 'Gender: (\w+)'
+Age_Range:
+  key: 'Age Range: (\w+)'
+Language:
+  key: 'Language: (\w+)'
+Dialect:
+  key: 'Pronunciation dialect: (\w+ ?\w+)'
