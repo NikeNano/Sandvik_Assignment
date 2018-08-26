@@ -14,6 +14,6 @@ Includes the following steps:
 6. PDF report done in latex (online editor).
 
 
-Please note that due to problems with the versioning and more specifically that my girlfriend had borrowed my GCE server for her master thesis resulted in that it looked like I had pushed code from two accounts. I therefore moved the code to a new repository. I have done all the code my self and if any problems would be more than happy to illustrate the problem and go through all the code in person to show that it is mine.  
+Please note that due to problems with the versioning and more specifically that my girlfriend had borrowed my GCE server for her master thesis resulted in that it looked like I had pushed code from two accounts. I therefore moved the code to a new repository. I have done all the code my self and would be more than happy to illustrate the problem and go through all the code in person to show that it is mine if there is any questions.  
 
 /Niklas
